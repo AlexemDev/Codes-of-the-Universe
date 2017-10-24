@@ -1,5 +1,5 @@
 ﻿# Верстка по макету (для портфолио)
-Макеты этого проекта можно взять здесь https://drive.google.com/file/d/0B6SToR7ObB8OWmdaNUJnc3Q3eDg/view?usp=sharing
+Макеты для данного проекта можно взять здесь https://drive.google.com/file/d/0B6SToR7ObB8OWmdaNUJnc3Q3eDg/view?usp=sharing
 Там имеется макет на для полной и мобильной версии
 
 
